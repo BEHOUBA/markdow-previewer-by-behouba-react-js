@@ -1,0 +1,16 @@
+.App {
+  margin: 10%;
+}
+
+#input-field{
+  width: 50%;
+  float: left;
+  height: 400px;
+}
+
+#result-field{
+  width: 50%;
+  float: right;
+  height: 400px;
+}
+
